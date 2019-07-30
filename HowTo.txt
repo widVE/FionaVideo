@@ -1,0 +1,19 @@
+Create the makefile
+
+cmake .
+
+Build the program
+
+make
+
+Run the program
+
+csastart ~/dscvr/apps/MusicTeam/SkeletonApp
+
+Head Tracking
+
+VNC -- pw admin
+
+press f5 to run, or kill program to stop
+
+
